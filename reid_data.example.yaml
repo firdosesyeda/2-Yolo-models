@@ -1,0 +1,5 @@
+dataset: market1501
+path: datasets/reid/ppe_people
+train: bounding_box_train
+query: query
+gallery: bounding_box_test

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+Fork Dataset/
+ppe_video_split/
+ppe_lowres/
+outputs/
+runs/
+*.pt
+*.engine
+*.onnx

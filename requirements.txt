@@ -1,0 +1,7 @@
+ultralytics==8.4.166
+boxmot==25.0.0
+opencv-python==4.12.0.88
+numpy==2.2.6
+PyYAML==6.0.3
+scipy==1.16.2
+sahi==0.12.7

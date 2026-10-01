@@ -1,0 +1,6 @@
+path: "Fork Dataset"
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names: [boots, gloves, helmet, vest]
